@@ -5,7 +5,7 @@ description = "A Xircuits component library for streamlit!"
 authors = [{ name = "XpressAI", email = "eduardo@xpress.ai" }]
 license = "Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/XpressAI/xai-mqtt"
+repository = "https://github.com/XpressAI/xai-streamlit"
 keywords = ["xircuits", "streamlit", "data-visualization", "interactive-widgets"]
 
 dependencies = [
